@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "string.h": "c",
+        "low.h": "c",
+        "time.h": "c",
+        "util.h": "c",
+        "config.h": "c",
+        "chrono": "cpp",
+        "stdio.h": "c",
+        "hamming_codec.h": "c",
+        "bitset": "c"
+    }
+}
